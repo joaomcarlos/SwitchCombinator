@@ -1,0 +1,13 @@
+{
+  "name": "switch-combinator",
+  "version": "0.1.0",
+  "title": "Switch Combinator",
+  "author": "silent",
+  "contact": "",
+  "homepage": "",
+  "description": "Adds a Switch Combinator - an advanced circuit network entity that functions like a switch statement with multiple condition groups, replacing the need for multiple decider combinators.",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.0"
+  ]
+}
